@@ -24,3 +24,5 @@ This project is a frontend clone of the Jumia e-commerce website. It replicates 
 
 ## 🎯 Purpose
 This project was built as part of my frontend development practice and portfolio to strengthen my UI/UX and layout implementation skills.
+
+JavaScript functionality will be added in future updates to enhance interactivity.
